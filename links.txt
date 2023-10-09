@@ -1,0 +1,7 @@
+https://examples.edgestore.dev/components/multi-file-instant
+
+https://github.com/perfectbase/edgestore-tutorial
+
+https://github.com/edgestorejs/edgestore
+
+https://www.youtube.com/watch?v=Acq9UEA2akU&t=1s
